@@ -1,0 +1,22 @@
+.items-list {
+    padding: 1rem;
+}
+
+.quantity-wrap {
+    display: flex;
+    align-items: center;
+    p {
+        font-size: 1.2rem;
+        margin-right: 1rem;
+    }
+    .btn-wrap {
+        display: flex;
+    }
+    button {
+        width: 2rem;
+        height: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
